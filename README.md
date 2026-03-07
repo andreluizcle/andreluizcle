@@ -4,10 +4,10 @@
  Sou entusiasta por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam crescer de modo pessoal e profissional. Estou aberto a conexões e oportunidades, por isso, fique à vontade para me chamar no  
  <a href="https://www.linkedin.com/in/andreluizclementedeoliveira/" target="_blank"> LinkedIn</a>!</p>
 
-<div style="display: inline_block">
+<!--<div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluizcle&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Atividades🎉&rank_icon=github">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizcle&layout=compact&theme=transparent&custom_title=Linguagens">
-</div>
+</div>-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.simpleicons.org/c">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
