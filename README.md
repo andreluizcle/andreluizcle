@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="andre_github_banner.gif" alt="Banner André Luiz" />
+  <img src="andre_github_bannerV2.gif" alt="Banner André Luiz" />
 </p>
 <h1>Olá, Me chamo André Luiz 👋</h1>
 <p align="justify">
