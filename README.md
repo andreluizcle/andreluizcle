@@ -1,3 +1,4 @@
+<img src="https://discord.com/channels/@me/657325378708307981/1492285021107650750">
 ## Olá, Me chamo André Luiz 👋
 <p align="justify">
  Tenho 19 anos, sou de São Paulo e concluí o Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC de Poá. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Unicamp.
