@@ -1,7 +1,8 @@
 <p align="center">
   <img src="andre_github_banner.gif" alt="Banner André Luiz" />
 </p>
-## Olá, Me chamo André Luiz 👋
+<h1>Olá, Me chamo André Luiz 👋</h1>
+<hr>
 <p align="justify">
  Tenho 19 anos, sou de São Paulo e concluí o Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC de Poá. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Unicamp.
  Sou entusiasta por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam crescer de modo pessoal e profissional. Estou aberto a conexões e oportunidades, por isso, fique à vontade para me chamar no  
