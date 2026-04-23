@@ -12,7 +12,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizcle&layout=compact&theme=transparent&custom_title=Linguagens">
 </div>
 -->
-<table border="none">
+<table style="border: none;">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"></td>
